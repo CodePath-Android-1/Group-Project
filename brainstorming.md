@@ -15,3 +15,11 @@ Translation app|
 OCR app|
 Nextdoor app, but for colleges|
 
+# Top 5 
+Top 5|
+--------------|
+Food recipe app|
+Bestbuy tracker app|
+Flu/covid tracking.| <--(plus vaccine tracking/availablity)-->
+Coursework tracking app|
+OCR app|
