@@ -9,7 +9,7 @@ Playstation store tracker
 Bestbuy tracker app|
 Identification app.|
 Bitfit part 3|
-Flu/covid tracking. (plus vaccine tracking/availablity)|
+Flu/covid tracking.| <--(plus vaccine tracking/availablity)-->
 Coursework tracking app|
 Translation app|
 OCR app|
