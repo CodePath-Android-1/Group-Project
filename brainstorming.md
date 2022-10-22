@@ -27,27 +27,27 @@ Top 5|Evaluation|
 
 ## New App Ideas - Evaluate and Categorize
 1. Food recipe app
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+  - **Category:**
+  - **Mobile:**
+  - **Story:**
+  - **Market:**
+  - **Habit:**
+  - **Scope:**
 
 2. Bestbuy tracker app
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+  - **Category:**
+  - **Mobile:**
+  - **Story:**
+  - **Market:**
+  - **Habit:**
+  - **Scope:**
 
 3. Flu/covid tracking. <--(plus vaccine tracking/availablity)-->
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+  - **Category:**
+  - **Mobile:**
+  - **Story:**
+  - **Market:**
+  - **Habit:**
+  - **Scope:**
 
 
