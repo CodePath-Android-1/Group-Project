@@ -18,7 +18,7 @@ OCR app||
 Nextdoor app, but for colleges||
 
 ## Top 3 New App Ideas
-Top 5|Evaluation|
+Top 5|
 --------------|
 1. Food recipe app|
 2. Bestbuy tracker app|
