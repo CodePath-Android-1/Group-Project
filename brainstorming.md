@@ -18,7 +18,7 @@ OCR app||
 Nextdoor app, but for colleges||
 
 ## Top 3 New App Ideas
-
+----------------|
 1. Food recipe app|
 2. Bestbuy tracker app|
 2. Flu/covid tracking.| <--(plus vaccine tracking/availablity)-->
