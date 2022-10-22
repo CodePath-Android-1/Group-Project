@@ -68,7 +68,7 @@ View Recipes online and save them for later. Useful for homecooks.
 ## Wireframes
 
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="wireframe.png" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src="Figma Wireframe.PNG" width=600>
