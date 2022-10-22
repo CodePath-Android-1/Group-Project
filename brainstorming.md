@@ -1,4 +1,4 @@
-Mobile App Dev - App Brainstorming Example
+Android Mobile Pod#1 - App Brainstorming
 ===
 
 ## New App Ideas
