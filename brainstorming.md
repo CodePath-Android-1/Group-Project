@@ -20,9 +20,9 @@ Nextdoor app, but for colleges||
 ## Top 3 New App Ideas
 App|
 ----------------|
-1. Food recipe app|
-2. Bestbuy tracker app|
-2. Flu/covid tracking.| <--(plus vaccine tracking/availablity)-->
+1.Food recipe app|
+2.Bestbuy tracker app|
+2.Flu/covid tracking.| <--(plus vaccine tracking/availablity)-->
 
 
 ## New App Ideas - Evaluate and Categorize
