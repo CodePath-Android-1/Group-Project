@@ -1,4 +1,4 @@
-Android Mobile Pod#1 - App Brainstorming
+Android Mobile Pod #1 - App Brainstorming
 ===
 
 ## New App Ideas
@@ -18,8 +18,7 @@ OCR app||
 Nextdoor app, but for colleges||
 
 ## Top 3 New App Ideas
-Top 5|
---------------|
+
 1. Food recipe app|
 2. Bestbuy tracker app|
 2. Flu/covid tracking.| <--(plus vaccine tracking/availablity)-->
